@@ -1,0 +1,15 @@
+Example output:
+---------------
+
+Enter Password: Hello123
+Medium Password
+
+Another example:
+----------------
+Enter Password: MySecure@2026
+Strong Password
+
+Weak password example:
+----------------------
+Enter Password: abc
+Weak Password
