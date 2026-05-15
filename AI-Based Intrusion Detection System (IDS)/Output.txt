@@ -1,0 +1,7 @@
+Traffic Analysis Results:
+
+Record 1: Normal Traffic
+Record 2: Normal Traffic
+Record 3: Suspicious Activity Detected
+Record 4: Normal Traffic
+Record 5: Suspicious Activity Detected
